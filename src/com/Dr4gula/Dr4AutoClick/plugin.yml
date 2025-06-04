@@ -1,0 +1,8 @@
+name: Dr4AutoClick
+version: 1.0
+main: com.Dr4gula.Dr4AutoClick.Main
+api-version: 1.7.10
+commands:
+  autoclick:
+    description: Ativa ou desativa o autoclick.
+    usage: /autoclick
